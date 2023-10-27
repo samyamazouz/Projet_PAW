@@ -11,7 +11,7 @@ body{
     margin-top: 40px; 
     background-color: rgb(241, 202, 229);
     border-radius: 25px;
-    box-shadow: 5px 5px 15px 3px;
+    box-shadow: 10px 5px 15px 3px;
 }
 form{
     display: inline-block;
